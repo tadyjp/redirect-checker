@@ -3,3 +3,4 @@ http://store.apple.com/ https://www.apple.com/
 http://ja-jp.facebook.com/ http://www.facebook.com/
 http://ja-jp.facebook.com/aaa https://www.facebook.com/bbb
 http://ja-jp.facebook.com/ccc https://www.facebook.com/ccc
+http://ja-jp.facebook.com/ccc?a[]=b https://www.facebook.com/ccc?a[]=b
